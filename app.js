@@ -7,7 +7,7 @@ app.use(cors());
 let pool = sql.createPool({
     host:'localhost',
     user:'root',
-    password:'1029anand',
+    password:'password',
     database:'lara'
 })
 
